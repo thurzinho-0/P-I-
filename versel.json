@@ -1,5 +1,0 @@
-{
-  "rewrites": [{ "source": "/", "destination": "/site.html" }],
-  "cleanUrls": true,
-  "trailingSlash": false
-}
